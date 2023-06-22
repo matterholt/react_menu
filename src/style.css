@@ -1,0 +1,15 @@
+h1,
+h2,
+p {
+  font-family: Lato;
+  margin: 1px;
+  padding: 1px;
+}
+
+.menu_section {
+  height: 350px;
+  border: solid black 1px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
